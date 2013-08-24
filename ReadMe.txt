@@ -1,5 +1,5 @@
 To view Processing-JS Programs offline:
-If you haven't already downloaded the archive through a direct link already, click on the ZIP tab at the top of the Processing-JS_Offline web page. 
+If you haven't already downloaded the archive through a direct link already, click on the Download ZIP tab at the right of the Processing-JS_Offline web page. 
 The archive will automatically pack itself into a ZIP file which will download into your default downloads folder. 
 After UnZipping the file into the folder of your choice, open the index.html page with your Web Browser and you can view a number of sample Programs embedded in Web Pages.
 
