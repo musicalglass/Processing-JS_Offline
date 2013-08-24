@@ -6,8 +6,9 @@ After UnZipping the file into the folder of your choice, open the index.html pag
 Creating your own files for offline viewing is relatively easy if you understand a little basic HTML.
 Copy your Program code and open the file:
 template.js 
+using Notepad or your favorite text editor.
 
-Paste your program into the designated area. Save As and name the file 
+Paste your program into the designated area. Save As a text only file and name the file 
 programName.js 
 
 Now open the Template.html page, scroll down to the bottom, and replace the name that refers to template.js with programName.js . 
