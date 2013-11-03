@@ -16,3 +16,8 @@ You may also change the title of the page etc. if you like. Save As and rename y
 programName.html. 
 
 That should be it :) if you open programName.html in your web browser, you should be able to view your Program offline.
+
+If you want to make your program portable, or post it on your own website, you need the processing-1.3.6.min.js file,
+your programName.js file and the programName.html file which specifies where to find both of them.
+All 3 could be in the same folder. If it's in a different folder, specify the relative html address 
+e.g. folderName/programName.js or ../processing-1.3.6.min.js (up one folder)
